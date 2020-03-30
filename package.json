@@ -26,7 +26,8 @@
     "@uifabric/fluent-theme": "^7.1.43",
     "office-ui-fabric-react": "6.189.2",
     "react": "16.8.5",
-    "react-dom": "16.8.5"
+    "react-dom": "16.8.5",
+    "typescript": "^3.8.3"
   },
   "resolutions": {
     "@types/react": "16.8.8"
